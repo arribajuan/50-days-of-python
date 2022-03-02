@@ -7,25 +7,25 @@ For example, if you pass 10 as an argument, then your function should return 3.1
 
 ## Create conda environment
 
-``` python
+``` bash
 conda create --name 50dop-day01 python=3.10 
 conda activate 50dop-day01
 ```
 
 ## Install libraries
 
-``` python
+``` bash
 conda install -c anaconda pytest
 ```
 
 ## Run tests
 
-``` python
+``` bash
 pytest divide_or_square_test.py
 ```
 
 ## Ru code
 
-``` python
+``` bash
 python3 day01-solution.py
 ```
