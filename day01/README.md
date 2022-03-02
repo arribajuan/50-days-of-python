@@ -24,7 +24,7 @@ conda install -c anaconda pytest
 pytest divide_or_square_test.py
 ```
 
-## Ru code
+## Run code
 
 ``` bash
 python3 day01-solution.py
