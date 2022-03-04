@@ -1,4 +1,4 @@
-# Day 2 - Strings to Integers
+# Day 2 - Convert Add
 
 Write a function called convert_add that takes a list of strings as an
 argument and converts it to integers and sums the list. 
@@ -39,11 +39,5 @@ conda env create --file environment.txt
 # Run tests
 
 ``` bash
-pytest divide_or_square_test.py
-```
-
-# Run code
-
-``` bash
-python3 day01-solution.py
+pytest convert_add_test.py
 ```
