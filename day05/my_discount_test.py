@@ -28,3 +28,11 @@ class TestMyDiscount:
 
         assert result == 100.0
 
+    def test_4(self):
+        price = 150
+        discount_percentage = 15.0
+
+        md = my_discount.MyDiscount()
+        result = md.my_discount(price, discount_percentage)
+
+        assert result == 127.5
