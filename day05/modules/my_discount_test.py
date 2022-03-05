@@ -1,4 +1,4 @@
-import my_discount
+from day05.modules import my_discount
 
 
 class TestMyDiscount:
