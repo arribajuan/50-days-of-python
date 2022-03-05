@@ -1,0 +1,45 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+@EXPLICIT
+https://repo.anaconda.com/pkgs/main/linux-64/_libgcc_mutex-0.1-main.conda
+https://conda.anaconda.org/conda-forge/linux-64/ca-certificates-2021.10.8-ha878542_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/ld_impl_linux-64-2.35.1-h7274673_9.conda
+https://repo.anaconda.com/pkgs/main/linux-64/libstdcxx-ng-9.3.0-hd4cf53a_17.conda
+https://repo.anaconda.com/pkgs/main/noarch/tzdata-2021e-hda174b7_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/libgomp-9.3.0-h5101ec6_17.conda
+https://repo.anaconda.com/pkgs/main/linux-64/_openmp_mutex-4.5-1_gnu.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/libgcc-ng-9.3.0-h5101ec6_17.conda
+https://repo.anaconda.com/pkgs/main/linux-64/bzip2-1.0.8-h7b6447c_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/libffi-3.3-he6710b0_2.conda
+https://repo.anaconda.com/pkgs/main/linux-64/libuuid-1.0.3-h7f8727e_2.conda
+https://repo.anaconda.com/pkgs/main/linux-64/ncurses-6.3-h7f8727e_2.conda
+https://repo.anaconda.com/pkgs/main/linux-64/openssl-1.1.1m-h7f8727e_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/xz-5.2.5-h7b6447c_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/zlib-1.2.11-h7f8727e_4.conda
+https://repo.anaconda.com/pkgs/main/linux-64/readline-8.1.2-h7f8727e_1.conda
+https://repo.anaconda.com/pkgs/main/linux-64/tk-8.6.11-h1ccaba5_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/sqlite-3.37.2-hc218d9a_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/python-3.10.0-h12debd9_5.tar.bz2
+https://conda.anaconda.org/anaconda/noarch/attrs-20.2.0-py_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/colorama-0.4.4-pyh9f0ad1d_0.tar.bz2
+https://conda.anaconda.org/anaconda/noarch/iniconfig-1.1.1-py_0.tar.bz2
+https://conda.anaconda.org/anaconda/noarch/more-itertools-8.5.0-py_0.tar.bz2
+https://conda.anaconda.org/anaconda/noarch/py-1.9.0-py_0.tar.bz2
+https://conda.anaconda.org/anaconda/noarch/pyparsing-2.4.7-py_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/python_abi-3.10-2_cp310.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/shellingham-1.4.0-pyh44b312d_0.tar.bz2
+https://conda.anaconda.org/anaconda/noarch/six-1.15.0-py_0.tar.bz2
+https://conda.anaconda.org/anaconda/noarch/toml-0.10.1-py_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/noarch/wheel-0.37.1-pyhd3eb1b0_0.conda
+https://conda.anaconda.org/anaconda/noarch/zipp-3.3.1-py_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/certifi-2021.10.8-py310hff52083_1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/click-8.0.4-py310hff52083_0.tar.bz2
+https://conda.anaconda.org/anaconda/noarch/importlib-metadata-2.0.0-py_1.tar.bz2
+https://conda.anaconda.org/anaconda/noarch/packaging-20.4-py_0.tar.bz2
+https://conda.anaconda.org/anaconda/noarch/importlib_metadata-2.0.0-1.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/setuptools-58.0.4-py310h06a4308_0.conda
+https://conda.anaconda.org/conda-forge/noarch/typer-0.4.0-pyhd8ed1ab_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/pip-21.2.4-py310h06a4308_0.conda
+https://conda.anaconda.org/anaconda/noarch/pluggy-0.12.0-py_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/pytest-6.2.4-py310h06a4308_2.conda

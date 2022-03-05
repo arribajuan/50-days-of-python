@@ -7,4 +7,4 @@ Find the book here: [50 days of python](https://benjaminb.gumroad.com/l/zybjn)
 * [Day 2 - Convert add](day02/README.md)
 * [Day 3 - Register check](day03/README.md)
 * [Day 4 - Only floats](day04/README.md)
-* 
+* [Day 5 - My discount](day05/README.md)
