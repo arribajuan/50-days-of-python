@@ -1,5 +1,6 @@
 import my_discount
 
+
 class TestMyDiscount:
     def test_1(self):
         price = 100

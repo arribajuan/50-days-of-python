@@ -1,6 +1,7 @@
 # Day 4: Only Floats
 
 Write a function called only_floats.
+
 * it takes two parameters: a and b
 * returns 2 if both arguments are floats
 * returns 1 if only one argument is a float
