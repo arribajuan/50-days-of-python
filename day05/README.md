@@ -70,5 +70,3 @@ python -m day05.app.main
 ```
 
 ![CLI app run](image-day05-run.png "CLI app run")
-
-
