@@ -1,4 +1,4 @@
-from .main import app
+from day05.app.main import app
 from typer.testing import CliRunner
 
 runner = CliRunner()

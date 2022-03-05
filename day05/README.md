@@ -43,10 +43,12 @@ conda env create --file environment.txt
 
 # Run tests
 
+From the root of the codebase
+
 ## Test discount functionality
 
 ``` bash
-pytest day05/custom_modules/my_discount_test.py
+pytest day05/tests/my_discount_test.py
 ```
 
 ![Module test](image-day05-test-module.png "Module test")
@@ -54,10 +56,10 @@ pytest day05/custom_modules/my_discount_test.py
 ## Test CLI app
 
 ``` bash
-pytest my_discount_test.py
+pytest day05/tests/main_test.py
 ```
 
-![CLI test](image-day05-test.png "CLI test")
+![CLI test](image-day05-test-cli.png "CLI test")
 
 # Run cli app
 
