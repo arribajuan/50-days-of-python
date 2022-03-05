@@ -16,4 +16,12 @@ class OnlyFloats:
         :param b: parameter b
         :return: Sum of parameters which are floats
         """
-        return 0
+        result = 0
+
+        if isinstance(a, float):
+            result += 1
+
+        if isinstance(b, float):
+            result += 1
+
+        return result
