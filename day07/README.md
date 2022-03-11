@@ -1,4 +1,4 @@
-# Day 6: A String Range
+# Day 7: A String Range
 
 Write a function called string_range that takes a single number and returns a string of its range.
 
