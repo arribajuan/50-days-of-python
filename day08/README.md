@@ -42,7 +42,7 @@ From the root of the codebase
 ## Test string range functionality
 
 ``` bash
-pytest day08/tests/string_range_test.py
+pytest day08/tests/odd_and_even_test.py
 ```
 
 ![Module test](image-day08-test-module.png "Module test")
