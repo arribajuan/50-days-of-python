@@ -27,4 +27,3 @@ class OddAndEven:
                 break
 
         return largest_even_number - smallest_odd_number
-

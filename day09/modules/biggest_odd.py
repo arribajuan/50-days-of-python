@@ -18,5 +18,3 @@ class BiggestOdd:
         else:
             odd_numbers.sort(reverse=True)
             return odd_numbers[0]
-
-

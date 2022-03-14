@@ -11,7 +11,7 @@ class TestOddAndEven:
         assert result == 0
 
     def test_2(self):
-        number_list = [1,3,5]
+        number_list = [1, 3, 5]
 
         oae = odd_and_even.OddAndEven()
         result = oae.odd_and_even(number_list)
@@ -19,7 +19,7 @@ class TestOddAndEven:
         assert result == -1
 
     def test_3(self):
-        number_list = [2,4,6]
+        number_list = [2, 4, 6]
 
         oae = odd_and_even.OddAndEven()
         result = oae.odd_and_even(number_list)
